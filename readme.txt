@@ -8,3 +8,4 @@ None fast-forward merge test.
 Git stash test.
 Issue-101 test.
 I try to modify,but get blocked!
+This change is from another computer. 
