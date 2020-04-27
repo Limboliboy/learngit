@@ -7,3 +7,4 @@ Creating a new branch is quick & simple.
 None fast-forward merge test.
 Git stash test.
 Issue-101 test.
+I try to modify,but get blocked!
